@@ -47,14 +47,12 @@ modified: '2026-07-19'
 tags:
 - Company
 - Acquired
-- Startups
 - Predictions
 - Gemini
 - Version One Ventures
 tags_raw:
 - Company
 - Acquired
-- Startup
 - Prediction
 - Gemini
 - Version One Ventures
@@ -75,3 +73,7 @@ common:
   name: Gemini
   x-relationship: acquired
   x-evidence: "Per Version One Ventures' own portfolio listing, Guesser was acquired by Gemini in 2021 and no longer operates as an independent company."
+x-tags-removed:
+- Startups
+x-company-stage: venture-backed
+x-company-stage-evidence: "own tags: Startup, Version One Ventures"
